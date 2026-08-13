@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin - AbiMart</title>
+</head>
+<body>
+    <h1>AbiMart Admin</h1>
+
+    <h3>Admin Dashboard</h3>
+    <p>Manage Products</p>
+    <p>Manage Buyers</p>
+    <p>Manage Sellers</p>
+    <p>Manage Orders</p>
+
+    <a href="index.jsp">Logout</a>
+</body>
+</html>
